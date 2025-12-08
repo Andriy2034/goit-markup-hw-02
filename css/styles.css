@@ -1,0 +1,49 @@
+.sec2 {
+  background-color: #2e2f42;
+}
+h1 {
+  color: #ffffff;
+  text-align: center;
+  font-size: 56px;
+}
+footer {
+  background-color: #2e2f42;
+}
+.web {
+  text-transform: uppercase;
+  color: #4d5ae5;
+  font-size: 18px;
+  font-style: normal;
+}
+.studio {
+  color: #ffffff;
+  font-size: 18px;
+}
+.studio1 {
+  color: #000000;
+  font-size: 18px;
+}
+.textfooter {
+  color: #ffffff;
+}
+button {
+  color: #ffffff;
+  background-color: #4d5ae5;
+}
+.ourtem {
+  background-color: #f4f4fd;
+}
+.ourteam2 {
+  text-align: center;
+  font-size: 36px;
+}
+.name {
+  text-align: center;
+}
+.nametext {
+  text-align: center;
+}
+.portfolio {
+  text-align: center;
+  font-size: 36px;
+}
