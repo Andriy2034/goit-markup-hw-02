@@ -1,49 +1,152 @@
-.sec2 {
+body {
+  background-color: #ffffff;
+  font-style: normal;
+  font-family: Roboto Raleway sans-serif;
+}
+.name_web {
+  font-size: 18px;
+  text-transform: uppercase;
+  color: #4d5ae5;
+  text-decoration: none;
+  font-weight: 700;
+}
+.name_studio {
+  color: #2e2f42;
+  text-decoration: none;
+}
+ul {
+  list-style-type: none;
+}
+.studio_link {
+  text-decoration: none;
+  font-size: 16px;
+  font-weight: 500;
+  color: #2e2f42;
+}
+.studio_link:hover {
+  color: #4d5ae5;
+}
+.studio_link:active {
+  color: tomato;
+}
+.portfolio_link {
+  text-decoration: none;
+  font-size: 16px;
+  font-weight: 500;
+  color: #2e2f42;
+}
+.portfolio_link:hover {
+  color: #4d5ae5;
+}
+.portfolio_link:active {
+  color: tomato;
+}
+.contacts_link {
+  text-decoration: none;
+  font-size: 16px;
+  font-weight: 500;
+  color: #2e2f42;
+}
+.contacts_link:hover {
+  color: #4d5ae5;
+}
+.contacts_link:active {
+  color: tomato;
+}
+.mail {
+  text-decoration: none;
+  font-size: 16px;
+  font-weight: 400;
+  color: #434455;
+}
+.mail:hover {
+  color: #4d5ae5;
+}
+.mail:active {
+  color: tomato;
+}
+.mail:focus {
+  color: tomato;
+}
+.tel {
+  text-decoration: none;
+  font-size: 16px;
+  font-weight: 400;
+  color: #434455;
+}
+.tel:hover {
+  color: #4d5ae5;
+}
+.tel:active {
+  color: tomato;
+}
+.tel:focus {
+  color: tomato;
+}
+.section_order_ser {
   background-color: #2e2f42;
 }
 h1 {
+  font-size: 56px;
+  font-weight: 700;
   color: #ffffff;
   text-align: center;
-  font-size: 56px;
+}
+.button_ser {
+  background-color: #4d5ae5;
+  color: #ffffff;
+  cursor: pointer;
+}
+.button_ser:active {
+  color: tomato;
+}
+.section_team {
+  background-color: #f4f4fd;
+}
+.section_team_title {
+  font-size: 36px;
+  font-weight: 700;
+  text-align: center;
+}
+.section_team_name {
+  font-size: 20px;
+  font-weight: 500;
+  color: #2e2f42;
+  text-align: center;
+}
+.section_team_text {
+  font-size: 16px;
+  font-weight: 400;
+  color: #434455;
+  text-align: center;
+}
+.section_images {
+  background-color: #ffffff;
+}
+.portfolio_tittle {
+  font-size: 36px;
+  font-weight: 700;
+  color: #2e2f42;
+  text-align: center;
+}
+.portfolio_name {
+  font-size: 20px;
+  font-weight: 500;
+  color: #2e2f42;
+}
+.portfolio_text {
+  font-size: 16px;
+  font-weight: 400;
+  color: #434455;
 }
 footer {
   background-color: #2e2f42;
 }
-.web {
-  text-transform: uppercase;
-  color: #4d5ae5;
-  font-size: 18px;
-  font-style: normal;
+.name_studio_footer {
+  color: #f4f4fd;
 }
-.studio {
-  color: #ffffff;
-  font-size: 18px;
-}
-.studio1 {
-  color: #000000;
-  font-size: 18px;
-}
-.textfooter {
-  color: #ffffff;
-}
-button {
-  color: #ffffff;
-  background-color: #4d5ae5;
-}
-.ourtem {
-  background-color: #f4f4fd;
-}
-.ourteam2 {
-  text-align: center;
-  font-size: 36px;
-}
-.name {
-  text-align: center;
-}
-.nametext {
-  text-align: center;
-}
-.portfolio {
-  text-align: center;
-  font-size: 36px;
+.footer_text {
+  font-size: 16px;
+  font-weight: 400;
+  color: #f4f4fd;
 }
