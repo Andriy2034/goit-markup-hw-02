@@ -23,14 +23,14 @@ address {
   color: #4d5ae5;
   text-decoration: none;
   font-weight: 700;
-  font-family: "Releway", sans-serif;
+  font-family: "Raleway", sans-serif;
   line-height: 1.17;
   letter-spacing: 0.03em;
 }
 .name_studio {
   color: #2e2f42;
   text-decoration: none;
-  font-family: "Releway" sans-serif;
+  font-family: "Raleway", sans-serif;
   line-height: 1.17;
   letter-spacing: 0.03em;
 }
@@ -106,6 +106,12 @@ address {
   line-height: 1.2;
   letter-spacing: 0.02em;
 }
+.name_title_team {
+  text-align: center;
+}
+.text_title_team {
+  text-align: center;
+}
 .text_title {
   font-size: 16px;
   color: #434455;
@@ -120,6 +126,7 @@ address {
   text-align: center;
   line-height: 1.11;
   letter-spacing: 0.02em;
+  color: #2e2f42;
 }
 
 .section_images {
@@ -138,7 +145,7 @@ footer {
 }
 .name_studio_footer {
   color: #f4f4fd;
-  font-family: "Releway", sans-serif;
+  font-family: "Raleway", sans-serif;
   line-height: 1.17;
   letter-spacing: 0.03em;
 }
